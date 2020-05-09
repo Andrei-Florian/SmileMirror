@@ -10,7 +10,6 @@
 // Wia and Yun
 #include <Bridge.h>
 #include <BlynkSimpleYun.h>
-#include <Universum_Logo.h>
 #include <WidgetRTC.h>
 
 // objects
@@ -132,7 +131,9 @@ void setup()
   //while(!Serial); // uncomment if debugging
   delay(1000);
   
-  logoStart("printOnObject");
+  Serial.println("SmileMirror");
+  Serial.println("9/MAY/2020 | Andrei Florian");
+  Serial.println("");
 
   Serial.println("[Setup] Starting Yun Bridge Connection to Linux");
   Blynk.begin(auth);
