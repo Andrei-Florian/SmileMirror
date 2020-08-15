@@ -1,4 +1,6 @@
 # Overview
+![Cover Image](https://hackster.imgix.net/uploads/attachments/1118011/_b5hJqvwraY.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
+
 People spend about 5 hours a week looking at themselves in the mirror. This is, for most of us, time we spend with ourselves: recapitulating the events of the day, getting ourselves ready to go out or simply admiring our reflection. But to others, this is not so easy.
 Studies show that 2 in 5 people always feel dissatisfied with themselves when they look in the mirror. These people would avoid a mirror at all costs and do not enjoy the “me time” that the rest of us do. The same study also states that out of the 40% of people that dodge their reflection, most of them are women.
 
